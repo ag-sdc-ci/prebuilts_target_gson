@@ -1,0 +1,9 @@
+{
+	"provideLibs": [	
+		    "libdummy_ext_gson-x86_64-v2.so",
+		    "libdummy_ext_gson.so",
+		    "libdummy_shared_gson-x86_64-v2.so",
+		    "libdummy_shared_gson.so"
+	],
+	"visible": true
+}
